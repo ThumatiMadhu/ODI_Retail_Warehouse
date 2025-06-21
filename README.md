@@ -49,9 +49,14 @@ You can add screenshots of:
 - Interface configurations
 - Execution logs
 
-Just add them in a folder named `/screenshots` and reference them here.
 
----
+![Screenshot 2025-06-21 122703](https://github.com/user-attachments/assets/27f0d806-e02a-4b35-ab1c-026134cd05aa)
+
+![Screenshot 2025-06-21 122735](https://github.com/user-attachments/assets/b44a8035-7f1a-4ad7-b1b2-ab9e95e99db7)
+![Screenshot 2025-06-21 122723](https://github.com/user-attachments/assets/b96aa594-792b-4988-9eac-475a44262a0b)
+![Screenshot 2025-06-21 122925](https://github.com/user-attachments/assets/02a89312-6fe5-4a72-a65c-6d86634a5e79)
+![Screenshot 2025-06-21 122749](https://github.com/user-attachments/assets/e1d2219c-8eb6-4abd-9ca6-1659347dfcd9)
+
 
 ## 📜 Author
 
